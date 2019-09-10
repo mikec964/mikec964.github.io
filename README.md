@@ -1,5 +1,17 @@
 # mikec964.github.io
-This isn't much of a page, but it's a place to host sharable (completed)
-projects.
+I'm Mike Combs and welcome to my portfolio, of sorts. I'm at [GitHub.com/mikec964](https://github.com/mikec964), [LinkedIn.com/in/mcombs64](https://www.linkedin.com/in/mcombs64) and [mike@combsnet.com](mail://mike@combsnet.com).
 
-My [Feature Branch Workflow with Git cheat sheet](git-workflow-cheatsheet.pdf) is organized around a workflow. I think it's more helpful because it puts the commands in context so they're easier to learn and understand, and the commands you need are more likely to be found on this sheet. The other cheat sheets I've seen are organized around basic and advanced commands and not any particular workflow. I also include the undo for each command, and that context has gotta be helpful. **Updated July 13, 2019**
+### Web, Python, and AWS
+[RPG Tools](http://rpgtools2019.us-east-1.elasticbeanstalk.com/) is a blog developed in Python, Flask, and SQLAlchemy, deployed on AWS. (I don't use the blog.) It can extract the images from a PowerPoint Presentation and give you a zip file back. (I don't always run this, [email me](mail://mike@combsnet.com) to activate it.)
+
+On Github: [pptx-images](https://github.com/mikec964/pptx-images) **Updated July 16, 2019**
+
+### Git Workflow 
+[Feature Branch Workflow with Git](git-workflow-cheatsheet.pdf) is a cheat sheet that organizes commands and undos around a workflow. It's more helpful because the commands in context are more likely what you need, easier to learn and understand, and you can easily undo mistakes. The other cheat sheets I've seen are organized around basic and advanced commands and not any particular workflow.
+
+On GitHub: [git-workflow-cheatsheet](https://github.com/mikec964/git-workflow-cheatsheet) **Updated July 13, 2019**
+
+### Data Science
+[Meeple Matcher](http://rpubs.com/mike3d0g) examines a user's collection of modern board games to make recommendations. Written in 'tidy' R with unit tests, it uses an XML API, caching and extensive normalization to get 1.4M ratings of 280K games. Then it determines preferred mechanics and themes with random forest, and recommendations through a logistic regression. I used R Markdown and ggplot2 to generate reports.
+
+On GitHub: [meeple-matcher](https://github.com/mikec964/meeple-matcher) **Updated July 31, 2018**
