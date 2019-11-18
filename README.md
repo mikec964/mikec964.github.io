@@ -15,3 +15,10 @@ On GitHub: [git-workflow-cheatsheet](https://github.com/mikec964/git-workflow-ch
 [Meeple Matcher](http://rpubs.com/mike3d0g) examines a user's collection of modern board games to make recommendations. Written in 'tidy' R with unit tests, it uses an XML API, caching and extensive normalization to get 1.4M ratings of 280K games. Then it determines preferred mechanics and themes with random forest, and recommendations through a logistic regression. I used R Markdown and ggplot2 to generate reports.
 
 On GitHub: [meeple-matcher](https://github.com/mikec964/meeple-matcher) **Updated July 31, 2018**
+
+## Gaming Materials
+Okay, this isn't part of my portfolio but I like to write and design clear instructions. This is the simple and stable URL for materials I've posted elsewhere.
+
+* For [Savage Worlds](https://drive.google.com/open?id=1Du7Lc_hIquyukmtMwSje6PMpt0P4Bw9z): Character sheets, and reference cards for combat rules, magic rules, chase rules, and tactics.
+* [Board Game Bits](https://drive.google.com/drive/folders/18lh_AukZNVoDyBh_affUX1K1owJ0vgck?usp=sharing) including reference cards, set-up cards, organizers and more for Dune, Kitchen Rush, Serenissima, Space Alert, Space Cadets, Warhammer Quest the Adventure Card Game
+
