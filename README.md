@@ -22,4 +22,4 @@ Okay, this isn't part of my portfolio but I like to write and design clear instr
 * For [Savage Worlds](https://drive.google.com/open?id=1Du7Lc_hIquyukmtMwSje6PMpt0P4Bw9z): Character sheets, and reference cards for combat rules, magic rules, chase rules, and tactics.
 * [Board Game Bits](https://drive.google.com/drive/folders/18lh_AukZNVoDyBh_affUX1K1owJ0vgck?usp=sharing) including reference cards, set-up cards, organizers and more for Dune, Kitchen Rush, Serenissima, Space Alert, Space Cadets, Warhammer Quest the Adventure Card Game
 
-<img src="/helo_eating_dogfood.jpg" alt="Rabbit eating dogfood, ignoring a sign with the No Rabbits symbol" title="Clear instructions are not always sufficient" width="816" height="459">
+<img src="https://imgur.com/a/CLe5MIz" alt="Rabbit eating dogfood, ignoring a sign with the No Rabbits symbol" title="Clear instructions are not always sufficient" width="816" height="459">
