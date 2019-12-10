@@ -23,4 +23,4 @@ Okay, this isn't part of my portfolio but I like to write and design clear instr
 * [Board Game Bits](https://drive.google.com/drive/folders/18lh_AukZNVoDyBh_affUX1K1owJ0vgck?usp=sharing) including reference cards, set-up cards, organizers and more for Dune, Kitchen Rush, Serenissima, Space Alert, Space Cadets, Warhammer Quest the Adventure Card Game
 
 Clear instructions are not always sufficient.
-![Rabbit eating dogfood, ignoring a sign with the No Rabbits symbol](helo_eating_dogfood.jpg)
+![Rabbit eating dogfood, ignoring a sign with the No Rabbits symbol](https://mikec964.github.io/helo_eating_dogfood.jpg)
